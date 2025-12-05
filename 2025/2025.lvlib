@@ -6,4 +6,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="1_1_2.vi" Type="VI" URL="../1_1_2.vi"/>
 	<Item Name="2_1.vi" Type="VI" URL="../2_1.vi"/>
+	<Item Name="2_1_LV23.vi" Type="VI" URL="../2_1_LV23.vi"/>
+	<Item Name="3_1.vi" Type="VI" URL="../3_1.vi"/>
 </Library>
